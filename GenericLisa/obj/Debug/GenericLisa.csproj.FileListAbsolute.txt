@@ -1,0 +1,10 @@
+C:\Users\youvi\source\repos\GenericLisa\GenericLisa\obj\Debug\GenericLisa.csprojAssemblyReference.cache
+C:\Users\youvi\source\repos\GenericLisa\GenericLisa\obj\Debug\GenericLisa.Form1.resources
+C:\Users\youvi\source\repos\GenericLisa\GenericLisa\obj\Debug\GenericLisa.Properties.Resources.resources
+C:\Users\youvi\source\repos\GenericLisa\GenericLisa\obj\Debug\GenericLisa.csproj.GenerateResource.cache
+C:\Users\youvi\source\repos\GenericLisa\GenericLisa\obj\Debug\GenericLisa.csproj.CoreCompileInputs.cache
+C:\Users\youvi\source\repos\GenericLisa\GenericLisa\bin\Debug\GenericLisa.exe.config
+C:\Users\youvi\source\repos\GenericLisa\GenericLisa\bin\Debug\GenericLisa.exe
+C:\Users\youvi\source\repos\GenericLisa\GenericLisa\bin\Debug\GenericLisa.pdb
+C:\Users\youvi\source\repos\GenericLisa\GenericLisa\obj\Debug\GenericLisa.exe
+C:\Users\youvi\source\repos\GenericLisa\GenericLisa\obj\Debug\GenericLisa.pdb
